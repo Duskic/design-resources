@@ -356,6 +356,9 @@ A library of free vector art and illustrations for download.
 ### [Retro Vectors](https://retrovectors.com)
 Vintage vector illustrations free for personal and commercial use.
 
+### [Polar Vectors] (https://polarvectors.com)
+Free & Premium Graphic Design Resources. Free vector graphics for personal and commercial use.
+
 ## Backgrounds & Patterns
 
 ### [Get Waves](https://getwaves.io)
